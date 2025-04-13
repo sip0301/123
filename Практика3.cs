@@ -1,11 +1,11 @@
-﻿using System.ComponentModel.Design;
+//﻿using System.ComponentModel.Design;
 
-namespace Практика_3
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
+//namespace prsc4
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
             //Задание 1 (a)
 
             //Console.Write("Задание а) ");
