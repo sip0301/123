@@ -1,4 +1,4 @@
-//﻿namespace Praktika4
+//﻿namespace prac4
 //{
 //    internal class Program4
 //    {
