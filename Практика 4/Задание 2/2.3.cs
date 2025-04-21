@@ -11,7 +11,7 @@
 //                if (x > 100 || x < 0)
 //                {
 
-//                    Console.WriteLine("не, вводи поновой");
+//                    Console.WriteLine("давай ещё раз");
 //                }
                 
 //            }while (x > 100 && x < 0);
