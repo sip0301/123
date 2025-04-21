@@ -227,7 +227,7 @@ namespace Практика_3
 
             //Console.Write("Введите число x: ");
             //double x5 = double.Parse(Console.ReadLine());
-            //bool z5 = 10 < x5 < 20;                        //хз почекай как сделать это вить тут типо к булево нельзя знак сравнения делать
+            //bool z5 = 10 < x5 < 20;                        
             //Console.WriteLine($"{x5} < 2 и {y} < 3 = {z5}");
             //Console.ReadKey();
 
@@ -245,7 +245,7 @@ namespace Практика_3
             //double x7 = double.Parse(Console.ReadLine());
             //Console.Write("Введите число y: ");
             //double y7 = double.Parse(Console.ReadLine());
-            //bool z7 = 0 < y7 < 4 && x7 < 5;                  //хз почекай как сделать это вить тут типо к булево нельзя знак сравнения делать
+            //bool z7 = 0 < y7 < 4 && x7 < 5;                 
             //Console.WriteLine($"{x7} < 2 и {y7} < 3 = {z7}");
             //Console.ReadKey();
 
