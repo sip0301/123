@@ -19,7 +19,7 @@
 //            bool chet = true;
 //            for (int i = 0; i < n; i++)
 //            {
-//                if (a[i] % 2 != 0) // Вы не поверите но опять заиграл DADDY!DADDY!DO!
+//                if (a[i] % 2 != 0) 
 //                {
 //                    chet = false;
 //                }
