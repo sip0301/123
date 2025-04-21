@@ -14,17 +14,17 @@
 //            Console.WriteLine();
 //            double sum = 0;
 //            int z = 0;
-//            for (int i = 0; i < a.Length; i += 2) // Похожа на предыдущию задачку
+//            for (int i = 0; i < a.Length; i += 2) 
 //            {
 //                if (a[i] > 0 && a[i] % 2 != 0)
 //                {
-//                    sum += a[i]; // Ну а это из 2 задачки взято
+//                    sum += a[i];
 //                    z++;
 //                }
 //            }
 //            if (z > 0)
 //            {
-//                double arif = sum / z; // Кстати пока делал ее играла DADDY!DADDY!DO! прекрасно было
+//                double arif = sum / z;
 //                Console.WriteLine(arif);
 //            }
 //        }
