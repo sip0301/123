@@ -8,6 +8,6 @@
 //{
 //    internal class _13
 //    {
-        // :( nuh omni man
+        // :) pomogite...
 //    }
 //}
