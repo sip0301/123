@@ -8,6 +8,6 @@
 //{
 //    internal class _11
 //    {
-//        //here no omni man too
+//        //bruh
 //    }
 //}
