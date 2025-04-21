@@ -16,15 +16,15 @@
 //                a[i] = rnd.Next(-1, 11);
 //                Console.Write(a[i] + " ");
 //            }
-//            bool Neggaaaaa = false; // Да да не поймете скорее всего, но это отсылка на GTA 5
+//            bool bbq = false; 
 //            for (int i = 0; i < n; i++)
 //            {
 //                if (a[i] < 0)
 //                {
-//                    Neggaaaaa = true;
+//                    bbq = true;
 //                }
 //            }
-//            Console.WriteLine(Neggaaaaa);
+//            Console.WriteLine(bbq);
 //        }
 //    }
 //}
